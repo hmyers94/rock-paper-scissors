@@ -1,0 +1,1 @@
+This is a simple Rock, Paper, Scissors game where I used the standard mix of HTML, CSS, and JavaScript. I've also used a little Bootstrap for some of the styling.
